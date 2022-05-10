@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerpichonka/test.git"
+  },
+  "author": "kerpichonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kerpichonka/test/issues"
+  },
+  "homepage": "https://github.com/kerpichonka/test#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
